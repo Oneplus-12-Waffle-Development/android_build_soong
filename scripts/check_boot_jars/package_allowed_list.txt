@@ -326,3 +326,6 @@ com.camera.camera2.extensions.*
 ###################################################
 # Xiaomi Extensions
 com.xiaomi.extensions.*
+
+# OnePlus Framework
+com\.color\.inner\.view\.*
